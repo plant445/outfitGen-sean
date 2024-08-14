@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f6c0f04a-e100-4cb2-a7ca-8d5a2b28ce16",
+    "type": "shirt",
+    "imageUrl": "https://clothes-selection.s3.us-west-1.amazonaws.com/uploads/1716968827301_shirt-1.jpg",
+    "createdAt": "2024-05-29T07:47:07.665Z"
+  },
+  {
+    "id": "c2f6a8a0-35a5-4d58-8756-a03c2d9036eb",
+    "type": "jacket",
+    "imageUrl": "https://clothes-selection.s3.us-west-1.amazonaws.com/uploads/1716968999130_jacket-2.jpg",
+    "createdAt": "2024-05-29T07:49:59.571Z"
+  },
+  {
+    "id": "67c1c412-a168-45c6-8a82-94140551dc59",
+    "type": "jacket",
+    "imageUrl": "https://clothes-selection.s3.us-west-1.amazonaws.com/uploads/1717011987555_jacket-1.jpg",
+    "createdAt": "2024-05-29T19:46:27.992Z"
+  },
+  {
+    "id": "5c8c1032-4542-4ded-90d5-dcc080d21579",
+    "type": "pant",
+    "imageUrl": "https://clothes-selection.s3.us-west-1.amazonaws.com/uploads/1720403884834_rick.webp",
+    "createdAt": "2024-07-08T01:58:05.108Z"
+  },
+  {
+    "id": "ec43c223-ce49-4aee-b153-87ff52648584",
+    "type": "pant",
+    "imageUrl": "https://clothes-selection.s3.us-west-1.amazonaws.com/uploads/1720404551022_test.jpg",
+    "createdAt": "2024-07-08T02:09:11.898Z"
+  },
+  {
+    "id": "18592aba-6351-4b23-a618-d7b4fc6ee80d",
+    "type": "shoe",
+    "imageUrl": "https://clothes-selection.s3.us-west-1.amazonaws.com/uploads/1720554828366_guidi.webp",
+    "createdAt": "2024-07-09T19:53:48.752Z"
+  }
+]
